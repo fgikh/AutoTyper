@@ -9,5 +9,5 @@ vídeo: https://youtu.be/WzShYuzBxqw
 
 4. escreva oq o progama tem q escrever nos arquivos de paragrafo
 
-5. você pode usar o codigo para varias coisas ou fazer um apartir dele
+5. você pode usar o codigo para varias coisas ou fazer um outro codigo apartir dele
 
