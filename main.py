@@ -5,7 +5,7 @@ for texto in texto:
     pyautogui.press('tab') #paragrafo
     pyautogui.typewrite(texto) #escrever texto1
     pyautogui.press ('enter') #ir para outra linha
-    time.sleep(0.5) #coolsown
+    time.sleep(0.5) #cooldown
 texto = open('paragrafo2.txt', encoding='utf8')  #abrir arquivo de texto2
 for texto in texto:
     pyautogui.press ('tab') #paragrafo
