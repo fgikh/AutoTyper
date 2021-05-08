@@ -1,7 +1,7 @@
 # AutoTyper
 vídeo: https://youtu.be/WzShYuzBxqw
 
-1. abra o terminal e escreva "npm install npyautogui"
+1. abra o terminal e escreva "npm install pyautogui"
 
 2. crie um arquivo main.py e escreva o código
  
