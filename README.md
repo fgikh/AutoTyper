@@ -7,7 +7,7 @@ vídeo: https://youtu.be/WzShYuzBxqw
  
 3. crie 3 arquivos com nomes de: paragrafo1, paragrafo2, paragrafo3
 
-4. escreva oq o bot tem q escrever nos arquivos de paragrafo
+4. escreva oq o progama tem q escrever nos arquivos de paragrafo
 
 5. você pode usar o codigo para varias coisas ou fazer um apartir dele
 
